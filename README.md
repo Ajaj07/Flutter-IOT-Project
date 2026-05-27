@@ -187,10 +187,15 @@ Body:
 4. Add tests if applicable
 5. Submit a pull request
 
-## License
+## App Screenshots
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
+<p align="center">
+  <img src="assets/Screenshots/Screenshot_20251011_083637.jpg" width="250"/>
+  <img src="assets/Screenshots/IMG-20250831-WA0008.jpg" width="250"/>
+  <img src="assets/Screenshots/Screenshot_20250826_103806.jpg" width="250"/>
+  <img src="assets/Screenshots/Screenshot_20251011_083631.jpg" width="250"/>
+  
+</p>
 ## Support
 
 For support and questions:
